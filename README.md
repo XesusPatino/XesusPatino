@@ -10,7 +10,7 @@
 </div>
 
 
-<!--- snake -->
+<!--- Photo -->
 <div align="center">
   <img  src="https://blog.dbacorp.com.br/wp-content/uploads/sites/2/2023/12/img-internet-das-coisas.jpg" /></a>
 </div>
@@ -71,25 +71,7 @@
   
 </div>
 
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
 
-Last Edited on: 5/1/2025
-<!--
-**XesusPatino/XesusPatino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
