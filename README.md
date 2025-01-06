@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 💻 I am studying **Data Science and Engineering**
+- 💻 **Data Science and Engineering**
 
 - 📖 I am currently studying at the **University of Coruña**
 
