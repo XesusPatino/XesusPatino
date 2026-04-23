@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 💻 **Data Science and Engineering**
 
-- 📖 I am currently working as MES Application Engineer at InventivaT**
+- 📖 I am currently working as **MES Application Engineer** at InventivaT
 
 - 💬 Ask me about **data bases, machine learning, statistics, ...**
 
