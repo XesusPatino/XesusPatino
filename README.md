@@ -77,7 +77,3 @@ class XesusPatino:
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=XesusPatino&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7CB342&icon_color=7CB342&text_color=c9d1d9" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XesusPatino&layout=compact&hide_border=true&bg_color=0d1117&title_color=7CB342&text_color=c9d1d9" alt="Top languages" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XesusPatino&color=7CB342&style=flat-square&label=Profile+views" alt="Profile views" />
-</p>
