@@ -8,7 +8,7 @@
 <!-- Typing subtitle -->
 <p align="center">
   <a href="https://github.com/XesusPatino">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=7CB342&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+Engineer;MES+Engineer+%40+InventivaT+Consultancy;MSc+student+in+Artificial+Intelligence;Turning+industrial+data+into+decisions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=7CB342&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,14 +23,14 @@
 
 ## 🧑‍💻 About me
 
-I'm a **Data Scientist & Engineer** working at the intersection of **industry and data**. As an **MES Engineer at InventivaT Consultancy**, I help manufacturing companies connect what happens on the shop floor with the data that drives their decisions. In parallel, I'm deepening my knowledge in **Artificial Intelligence** through a master's degree.
+I'm a **Data Scientist & Engineer** working at the intersection of **industry and data**. As an **MES Engineer at InventivaT Consultancy**, I help manufacturing companies connect what happens on the production floor with the data that drives their decisions. In parallel, I'm deepening my knowledge in **Artificial Intelligence** through a master's degree.
 
 ```python
 class XesusPatino:
-    role       = "MES Engineer @ InventivaT Consultancy"
+    role       = "MES Engineer in InventivaT Consultancy"
     education  = {
         "BSc": "Data Science and Engineering",
-        "MSc": "Artificial Intelligence (in progress)",
+        "MSc": "Artificial Intelligence",
     }
     interests  = ["Machine Learning", "Industry 4.0", "Databases", "Statistics"]
     contact    = "xpatinom@gmail.com"
@@ -39,7 +39,7 @@ class XesusPatino:
 - 🏭 **Now:** implementing Manufacturing Execution Systems (MES) and industrial data solutions
 - 🎓 **Background:** BSc in Data Science and Engineering
 - 🤖 **Learning:** MSc in Artificial Intelligence
-- 💬 **Ask me about:** databases, machine learning, statistics, MES
+- 💬 **Ask me about:** Databases, machine learning, statistics, MES
 
 ---
 
