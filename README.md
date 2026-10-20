@@ -57,17 +57,16 @@ class XesusPatino:
   <img src="https://skillicons.dev/icons?i=vscode,azure,git,rabbitmq,latex&theme=dark" alt="Tools" />
 </p>
 
+**Data & databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,anaconda,jupyter&theme=dark" alt="Databases" />
+</p>
 
 **IA/ML**
 
 <p>
   <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=dark" alt="Languages" />
-</p>
-
-**Data & databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,anaconda,jupyter&theme=dark" alt="Databases" />
 </p>
 
 ---
