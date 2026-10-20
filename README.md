@@ -66,7 +66,7 @@ class XesusPatino:
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,azure,git,github,rabbitmq,latex&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,azure,git,rabbitmq,latex&theme=dark" alt="Tools" />
 </p>
 
 ---
