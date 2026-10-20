@@ -3,7 +3,7 @@
   <img src="assets/banner.jpg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Xesús Patiño 👋</h1>
+<h1 align="center">Hi, I'm Xesús Patiño Martínez 👋</h1>
 
 <!-- Typing subtitle -->
 <p align="center">
@@ -48,19 +48,25 @@ class XesusPatino:
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,r,matlab,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,r,matlab,js,dotnet,html,css&theme=dark" alt="Languages" />
+</p>
+
+**IA/ML**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=dark" alt="Languages" />
 </p>
 
 **Data & databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,anaconda,jupyter&theme=dark" alt="Databases" />
 </p>
 
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,kali,notion,latex&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,azure,git,github,rabbitmq,latex&theme=dark" alt="Tools" />
 </p>
 
 ---
