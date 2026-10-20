@@ -39,7 +39,7 @@ class XesusPatino:
 - 🏭 **Now:** implementing Manufacturing Execution Systems (MES) and industrial data solutions
 - 🎓 **Background:** BSc in Data Science and Engineering
 - 🤖 **Learning:** MSc in Artificial Intelligence
-- 💬 **Ask me about:** Databases, machine learning, statistics, MES
+- 💬 **Ask me about:** Databases, machine learning, statistics, MES, ...
 
 ---
 
